@@ -1,0 +1,15 @@
+program Salao;
+
+uses
+  Vcl.Forms,
+  uFormPrincipal in 'uFormPrincipal.pas' {Form1},
+  uFrmPadrao in 'uFrmPadrao.pas' {Form2};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.
