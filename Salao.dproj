@@ -104,43 +104,48 @@
         <DelphiCompile Include="$(MainSource)">
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
-        <DCCReference Include="ufrmPrincipal.pas">
+        <DCCReference Include="View\Salao.View.Principal.pas">
             <Form>frmPrincipal</Form>
             <FormType>fmx</FormType>
         </DCCReference>
-        <DCCReference Include="uFrmCadastroPadrao.pas">
+        <DCCReference Include="View\Salao.View.Padrao.pas">
             <Form>frmCadastroPadrao</Form>
             <FormType>fmx</FormType>
         </DCCReference>
-        <DCCReference Include="uFrmCadastroServicos.pas">
+        <DCCReference Include="View\Salao.View.Servicos.pas">
             <Form>frmCadastroServico</Form>
             <FormType>fmx</FormType>
         </DCCReference>
-        <DCCReference Include="uDmDados.pas">
+        <DCCReference Include="Model\Salao.Model.Dados.pas">
             <Form>dmDados</Form>
             <FormType>dfm</FormType>
             <DesignClass>TDataModule</DesignClass>
         </DCCReference>
-        <DCCReference Include="uFrmCadastroClientes.pas">
+        <DCCReference Include="View\Salao.View.Clientes.pas">
             <Form>frmClientes</Form>
             <FormType>fmx</FormType>
         </DCCReference>
-        <DCCReference Include="uFrmMensagensPadrao.pas">
+        <DCCReference Include="View\Salao.View.MensagemPadrao.pas">
             <Form>frmMensagemPadrao</Form>
             <FormType>fmx</FormType>
         </DCCReference>
-        <DCCReference Include="uFrmFaturamento.pas">
+        <DCCReference Include="View\Salao.View.Faturamento.pas">
             <Form>frmFaturamento</Form>
             <FormType>fmx</FormType>
         </DCCReference>
-        <DCCReference Include="uFrmCadastroProfissionais.pas">
+        <DCCReference Include="View\Salao.View.Profissionais.pas">
             <Form>frmCadastroProfissionais</Form>
             <FormType>fmx</FormType>
         </DCCReference>
-        <DCCReference Include="Classes\Classes.Utils.View.pas"/>
-        <DCCReference Include="uFrmPagamentos.pas">
+        <DCCReference Include="Controller\Salao.Controller.Utils.pas"/>
+        <DCCReference Include="View\Salao.View.Pagamentos.pas">
             <Form>frmCadastroPagamentos</Form>
             <FormType>fmx</FormType>
+        </DCCReference>
+        <DCCReference Include="Model\Conexao\Salao.Model.Conexao.DatasetMongo.pas">
+            <Form>SalaoModelConexaoDataSetMongo</Form>
+            <FormType>dfm</FormType>
+            <DesignClass>TDataModule</DesignClass>
         </DCCReference>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>

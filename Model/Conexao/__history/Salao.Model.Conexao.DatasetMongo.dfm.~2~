@@ -1,0 +1,11 @@
+object DataModule1: TDataModule1
+  OldCreateOrder = False
+  Height = 193
+  Width = 257
+  object FDMongoDataSet1: TFDMongoDataSet
+    FormatOptions.AssignedValues = [fvStrsTrim2Len]
+    FormatOptions.StrsTrim2Len = True
+    Left = 124
+    Top = 72
+  end
+end

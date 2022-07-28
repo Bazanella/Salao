@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/07/28 12:43:14.038,D:\_Cursos\Delphi\MVC\Salao\View\Salao.View.Clientes.pas=D:\_Cursos\Delphi\MVC\Salao\uFrmCadastroClientes.pas</Transaction>
+    <Transaction>2022/07/28 12:43:14.038,D:\_Cursos\Delphi\MVC\Salao\View\Salao.View.Clientes.fmx=D:\_Cursos\Delphi\MVC\Salao\uFrmCadastroClientes.fmx</Transaction>
+    <Transaction>2022/07/28 12:44:01.005,D:\_Cursos\Delphi\MVC\Salao\View\Salao.View.Principal.pas=D:\_Cursos\Delphi\MVC\Salao\ufrmPrincipal.pas</Transaction>
+    <Transaction>2022/07/28 12:44:01.005,D:\_Cursos\Delphi\MVC\Salao\View\Salao.View.Principal.fmx=D:\_Cursos\Delphi\MVC\Salao\ufrmPrincipal.fmx</Transaction>
+    <Transaction>2022/07/28 12:44:32.443,D:\_Cursos\Delphi\MVC\Salao\View\Salao.View.Pagamentos.pas=D:\_Cursos\Delphi\MVC\Salao\uFrmPagamentos.pas</Transaction>
+    <Transaction>2022/07/28 12:44:32.443,D:\_Cursos\Delphi\MVC\Salao\View\Salao.View.Pagamentos.fmx=D:\_Cursos\Delphi\MVC\Salao\uFrmPagamentos.fmx</Transaction>
+    <Transaction>2022/07/28 12:46:08.132,D:\_Cursos\Delphi\MVC\Salao\View\Salao.View.MensagemPadrao.fmx=D:\_Cursos\Delphi\MVC\Salao\uFrmMensagensPadrao.fmx</Transaction>
+    <Transaction>2022/07/28 12:46:08.132,D:\_Cursos\Delphi\MVC\Salao\View\Salao.View.MensagemPadrao.pas=D:\_Cursos\Delphi\MVC\Salao\uFrmMensagensPadrao.pas</Transaction>
+    <Transaction>2022/07/28 12:46:32.503,D:\_Cursos\Delphi\MVC\Salao\View\Salao.View.Faturamento.pas=D:\_Cursos\Delphi\MVC\Salao\uFrmFaturamento.pas</Transaction>
+    <Transaction>2022/07/28 12:46:32.503,D:\_Cursos\Delphi\MVC\Salao\View\Salao.View.Faturamento.fmx=D:\_Cursos\Delphi\MVC\Salao\uFrmFaturamento.fmx</Transaction>
+    <Transaction>2022/07/28 12:47:20.537,D:\_Cursos\Delphi\MVC\Salao\View\Salao.View.Servicos.pas=D:\_Cursos\Delphi\MVC\Salao\uFrmCadastroServicos.pas</Transaction>
+    <Transaction>2022/07/28 12:47:20.537,D:\_Cursos\Delphi\MVC\Salao\View\Salao.View.Servicos.fmx=D:\_Cursos\Delphi\MVC\Salao\uFrmCadastroServicos.fmx</Transaction>
+    <Transaction>2022/07/28 12:48:15.179,D:\_Cursos\Delphi\MVC\Salao\View\Salao.View.Profissionais.pas=D:\_Cursos\Delphi\MVC\Salao\uFrmCadastroProfissionais.pas</Transaction>
+    <Transaction>2022/07/28 12:48:15.179,D:\_Cursos\Delphi\MVC\Salao\View\Salao.View.Profissionais.fmx=D:\_Cursos\Delphi\MVC\Salao\uFrmCadastroProfissionais.fmx</Transaction>
+    <Transaction>2022/07/28 12:48:43.099,D:\_Cursos\Delphi\MVC\Salao\View\Salao.View.Padrao.pas=D:\_Cursos\Delphi\MVC\Salao\uFrmCadastroPadrao.pas</Transaction>
+    <Transaction>2022/07/28 12:48:43.099,D:\_Cursos\Delphi\MVC\Salao\View\Salao.View.Padrao.fmx=D:\_Cursos\Delphi\MVC\Salao\uFrmCadastroPadrao.fmx</Transaction>
+    <Transaction>2022/07/28 12:51:01.563,D:\_Cursos\Delphi\MVC\Salao\Model\Salao.Model.Dados.pas=D:\_Cursos\Delphi\MVC\Salao\uDmDados.pas</Transaction>
+    <Transaction>2022/07/28 12:51:01.563,D:\_Cursos\Delphi\MVC\Salao\Model\Salao.Model.Dados.dfm=D:\_Cursos\Delphi\MVC\Salao\uDmDados.dfm</Transaction>
+    <Transaction>2022/07/28 12:53:51.409,D:\_Cursos\Delphi\MVC\Salao\Controller\Salao.Controller.Utils.pas=D:\_Cursos\Delphi\MVC\Salao\Classes\Classes.Utils.View.pas</Transaction>
+    <Transaction>2022/07/28 13:28:24.358,=D:\_Cursos\Delphi\MVC\Salao\Unit1.pas</Transaction>
+    <Transaction>2022/07/28 13:29:34.041,D:\_Cursos\Delphi\MVC\Salao\Model\Conexao\Salao.Model.Conexao.pas=D:\_Cursos\Delphi\MVC\Salao\Unit1.pas</Transaction>
+    <Transaction>2022/07/28 13:29:34.041,D:\_Cursos\Delphi\MVC\Salao\Model\Conexao\Salao.Model.Conexao.dfm=D:\_Cursos\Delphi\MVC\Salao\Unit1.dfm</Transaction>
+    <Transaction>2022/07/28 13:30:16.902,D:\_Cursos\Delphi\MVC\Salao\Model\Conexao\Salao.Model.Conexao.DatasetMongo.pas=D:\_Cursos\Delphi\MVC\Salao\Model\Conexao\Salao.Model.Conexao.pas</Transaction>
+    <Transaction>2022/07/28 13:30:16.902,D:\_Cursos\Delphi\MVC\Salao\Model\Conexao\Salao.Model.Conexao.DatasetMongo.dfm=D:\_Cursos\Delphi\MVC\Salao\Model\Conexao\Salao.Model.Conexao.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
